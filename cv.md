@@ -57,13 +57,7 @@ Courses:
 
 ## Contacts
 
-Feel free to reach out via [your@email.com](mailto:your@email.com) or Telegram [@yourusername](https://t.me/yourusername) if you have any questions or collaboration opportunities.
+**Email:** timurwolczanski@gmail.com
+**Telegram:** @timurwolczanski
 
 ---
-
-*This CV is maintained as a live README to track skills and growth in frontend development.*
-
-
-English
-
-B1-B2 (Intermediate) – reading technical documentation, completing courses in English, watching English learning materials, and using English in written technical communication.
