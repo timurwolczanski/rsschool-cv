@@ -42,10 +42,11 @@ Junior Frontend Developer and Master's student aiming to grow in web development
 2024 – Present
 
 
-Courses:
+## Courses:
 
-* FreeCodeCamp Responsive Web Design
 * JavaScript/Frontend fundamentals (self-study and online)
+* Management of Digital Projects
+* Computer Technologies in Innovative Pedagogical Activities
 
 ---
 
