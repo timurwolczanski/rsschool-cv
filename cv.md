@@ -8,7 +8,7 @@
 
 ## About Me
 
-Junior Frontend Developer and Master's student aiming to grow in web development and data visualization. Motivated to learn modern development practices, write clean and maintainable code, and contribute effectively within a team environment. Eager to take on challenging tasks, learn new technologies, and continuously improve skills.
+Junior Software Developer and Master's student aiming to grow in web development and data visualization. Motivated to learn modern development practices, write clean and maintainable code, and contribute effectively within a team environment. Eager to take on challenging tasks, learn new technologies, and continuously improve skills.
 
 ---
 
