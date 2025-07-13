@@ -1,46 +1,68 @@
-Timur Volchansky
+# Timur Volchansky
 
-Email: timurwolczanski@gmail.com
-Telegram: @timurwolczanski
-GitHub: timurwolczanski
+**Email:** timurwolczanski@gmail.com
+**Telegram:** @timurwolczanski
+**GitHub:** [github.com/timurwolczanski](https://github.com/timurwolczanski)
 
-About Me
+---
 
-I am a Junior Software Developer and a Master’s student aiming to grow in the field of web development and data visualization. I am motivated to learn modern development approaches, write clean and maintainable code, and contribute effectively within a team environment. I am eager to take on challenging tasks, learn new technologies, and continuously improve my skills.
+## About Me
 
-Skills
+Junior Frontend Developer and Master's student aiming to grow in web development and data visualization. Motivated to learn modern development practices, write clean and maintainable code, and contribute effectively within a team environment. Eager to take on challenging tasks, learn new technologies, and continuously improve skills.
 
-Programming languages: JavaScript (ES6+), HTML5, CSS3 (Sass/SCSS)
+---
 
-Frameworks and libraries: React, Next.js (basic), Tailwind CSS, Redux Toolkit (basic)
+## Skills
 
-Tools: Git, GitHub, Figma, VS Code
+* **Programming Languages:** JavaScript (ES6+), HTML5, CSS3 (Sass/SCSS)
+* **Frameworks & Libraries:** React, Next.js (basic), Tailwind CSS, Redux Toolkit (basic)
+* **Tools:** Git, GitHub, Figma, VS Code
+* **Methodologies:** BEM, Agile (basic)
+* **Other:** REST API, adaptive & cross-browser layout
 
-Methodologies: BEM, basic knowledge of Agile and Scrum
+---
 
-Other: REST API, adaptive and cross-browser layout
+## Work Experience
 
-Work Experience
+**Website Administrator – Distance Learning Platform**
+*VlSU Distance Education Platform*
+*September 2023 – June 2025*
 
-Website Administrator – Distance Learning PlatformUniversity-based platform September 2023 – June 2025
+* Administered and supported the university’s distance learning website.
+* Managed content updates, user access, and troubleshooting.
+* Ensured stability and usability for students and faculty.
+* Assisted in gathering user feedback and implementing improvements.
 
-Administered and supported the university’s distance learning website.
+---
 
-Managed content updates, user access, and basic troubleshooting.
+## Education
 
-Ensured platform stability and usability for students and faculty.
+**Master's Degree**, Vladimir State University (VlSU)
+*Innovation Management in High-Tech Industries, Department of Mechanical Engineering Technology*
+2024 – Present
 
-Assisted in gathering user feedback and implementing improvements.
-
-Education
-
-Master’s Degree, Vladimir State University (VlSU), Innovation Management in High-Tech Industries, Department of Mechanical Engineering Technology, 2024 – PresentBachelor’s Degree, Vladimir State University (VlSU), [Field of Study], [Years]
 
 Courses:
 
-FreeCodeCamp Responsive Web Design
+* FreeCodeCamp Responsive Web Design
+* JavaScript/Frontend fundamentals (self-study and online)
 
-JavaScript/Frontend fundamentals (self-study and online courses)
+---
+
+## English
+
+**B1-B2 (Intermediate)** – confident in reading documentation, completing courses in English, and using English in written technical communication.
+
+---
+
+## Contacts
+
+Feel free to reach out via [your@email.com](mailto:your@email.com) or Telegram [@yourusername](https://t.me/yourusername) if you have any questions or collaboration opportunities.
+
+---
+
+*This CV is maintained as a live README to track skills and growth in frontend development.*
+
 
 English
 
